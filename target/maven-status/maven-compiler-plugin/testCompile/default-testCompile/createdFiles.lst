@@ -1,0 +1,3 @@
+br\com\stock\services\ControlProductServiceTest.class
+br\com\stock\services\ValidatesValuesServiceTest.class
+br\com\stock\StockApplicationTest.class

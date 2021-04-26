@@ -1,0 +1,5 @@
+br\com\stock\entities\Product.class
+br\com\stock\StockApplication.class
+br\com\stock\entities\ControlProduct.class
+br\com\stock\services\ControlProductService.class
+br\com\stock\services\ValidatesValuesService.class
